@@ -32,11 +32,8 @@ A modern, responsive, multi-page **Website Platform** built with **React.js, Jav
 
 ---
 
-## 🚀 How to Run the Website
-
-1. Navigate to:
-   ```
-   C:\Users\anaiz\.gemini\antigravity\scratch\resume-management-app\
-   ```
-2. Double-click **`index.html`** to open the website directly in Google Chrome, Microsoft Edge, Firefox, or Safari.
-3. No server or node installation is needed!
+## How to Run the Website
+Download or clone this repository.
+Open the project folder.
+Open index.html in Google Chrome, Microsoft Edge, Firefox, or another modern web browser.
+The website runs directly in the browser and does not require a local server or Node.js installation.
