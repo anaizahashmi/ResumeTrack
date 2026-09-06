@@ -33,7 +33,8 @@ A modern, responsive, multi-page **Website Platform** built with **React.js, Jav
 ---
 
 ## How to Run the Website
-Download or clone this repository.
-Open the project folder.
-Open index.html in Google Chrome, Microsoft Edge, Firefox, or another modern web browser.
-The website runs directly in the browser and does not require a local server or Node.js installation.
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in Google Chrome, Microsoft Edge, Firefox, or another modern web browser.
+4. The website runs directly in the browser and does not require a local server or Node.js installation.
